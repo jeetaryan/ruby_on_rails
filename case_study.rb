@@ -8,7 +8,7 @@
 #     print("you are great back-end-developer")
 # end    
    
-
+# 1..5 means between
 age = 35
 case age
 when 1..5
